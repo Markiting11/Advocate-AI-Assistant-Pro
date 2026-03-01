@@ -1,0 +1,8 @@
+{
+  "name": "AI Advocate Assistant Powered by Anwar Ali Sehar",
+  "description": "A professional AI-powered legal assistant for advocates to analyze case files, generate strategy, and discuss cases via a real-time voice assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
